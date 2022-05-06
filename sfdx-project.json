@@ -1,0 +1,14 @@
+{
+  "packageDirectories": [
+    {
+      "path": "sfdx-source/main",
+      "default": true
+    },
+    {
+      "path": "sfdx-source/test",
+      "default": false
+    }
+  ],
+  "name": "customInlineEditDatatable",
+  "namespace": ""
+}
